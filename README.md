@@ -9,9 +9,5 @@ Using  @ConditionalOnProperty and  @ConditionalOnMissingBean
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
+<img align="left" alt="SaralSaxena Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SaralSaxena&show_icons=true&hide_border=true" />
 
-
-[<img align="left" alt="saralsaxena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
